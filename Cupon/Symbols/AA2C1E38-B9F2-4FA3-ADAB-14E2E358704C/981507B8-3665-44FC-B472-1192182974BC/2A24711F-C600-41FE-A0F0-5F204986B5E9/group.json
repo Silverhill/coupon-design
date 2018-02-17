@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "2A24711F-C600-41FE-A0F0-5F204986B5E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "815303B8-1877-448D-A70A-E7E5FBFDC582"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CA1D768-07EE-4FC5-A58F-2B4683C5252B"
+    },
+    {
+      "class": "group",
+      "id": "DECF6DB5-B2A5-49A6-9414-6FA547C72C63"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D172F28-358D-4C23-9AA0-266122E2DCF8"
+    },
+    {
+      "class": "text",
+      "id": "48EC57FC-C790-4D32-B87D-B1916EBC3DC3"
+    },
+    {
+      "class": "text",
+      "id": "AE8DB4E6-79E1-4257-A4C1-D997ADC364EE"
+    },
+    {
+      "class": "text",
+      "id": "63701D88-F6EE-47D0-A3AD-A06276A5A2F9"
+    }
+  ],
+  "name": "Campaña",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

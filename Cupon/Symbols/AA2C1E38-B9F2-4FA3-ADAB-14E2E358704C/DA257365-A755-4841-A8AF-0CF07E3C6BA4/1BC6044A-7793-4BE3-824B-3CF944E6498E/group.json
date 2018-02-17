@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "1BC6044A-7793-4BE3-824B-3CF944E6498E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5D2DD8F-9188-4E70-BA75-0FD029D8C86C"
+    },
+    {
+      "class": "group",
+      "id": "54D63276-55D0-40F9-AA67-2D9B5A7B84A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B32D766-FFDC-4CD0-9BAD-4FD67ECCC1EF"
+    },
+    {
+      "class": "text",
+      "id": "FF5801C9-5AB0-462B-9140-99A2AFDFF353"
+    },
+    {
+      "class": "text",
+      "id": "23BDE783-D077-40C8-9F93-E32F2D7C5048"
+    }
+  ],
+  "name": "Campaña Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

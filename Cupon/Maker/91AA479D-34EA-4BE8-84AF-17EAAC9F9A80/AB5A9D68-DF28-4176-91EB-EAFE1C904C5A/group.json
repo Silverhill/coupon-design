@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "AB5A9D68-DF28-4176-91EB-EAFE1C904C5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 39,
+    "width": 131,
+    "x": 395,
+    "y": 762
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "12B39044-BC85-4E39-BA2C-AFB4B4EF83A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F7D4BB3-4139-4DFB-9C74-E05F3FC6A65C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D33DCDB-B03E-45EF-B57A-EA37F7873B70"
+    },
+    {
+      "class": "bitmap",
+      "id": "7E6F9738-EC1F-4E90-9341-805B0EBD15E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3822934-E02C-4F2C-9618-82E74FF83683"
+    }
+  ],
+  "name": "Google Play",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

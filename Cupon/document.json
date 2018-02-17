@@ -1,0 +1,100 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3490196078431373,
+        "green": 0.2705882352941176,
+        "red": 0.8313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8952752976190477,
+        "green": 0.8952752976190477,
+        "red": 0.8952752976190477
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2902374565601349,
+        "green": 0.2901752889156342,
+        "red": 0.290221631526947
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3619230300923242,
+        "green": 0.3619230300923242,
+        "red": 0.4043633078231292
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4039215686274512,
+        "green": 0.2901960784313725,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9821694302721088,
+        "green": 0.9821694302721088,
+        "red": 0.9821694302721088
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3230015851449275,
+        "blue": 0.1094621494412422,
+        "green": 0.9072384238243104,
+        "red": 0.9707751870155334
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "91F27081-357A-4055-9F1F-E9E2CE0FEFE7",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "48.1",
+    "build": 47250,
+    "commit": "5b9531439a15a8e8d2e29be292655447768783db",
+    "version": 97
+  },
+  "pages": [
+    "Maker",
+    "Admin",
+    "Style Guide",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"623520112\",\"layerId\":\"3951A61C-4007-4D8C-8945-40CDA48A55A6\"},{\"id\":\"638537506\",\"layerId\":\"0B564D5E-C9DE-4477-BE08-3DDA8342B1CF\"},{\"id\":\"458632245\",\"layerId\":\"20D1F556-24CB-479D-901E-9A73E720CD1C\"},{\"id\":\"623520112\",\"layerId\":\"E997B21F-D2B9-4E57-A1D9-13687347B99B\"}]"
+    },
+    "com.invisionlabs.getty1": {
+      "ids": "[{\"id\":\"634758103\",\"layerId\":\"107C26D5-2FF7-42B3-9E3D-6E3F7230FC09\"},{\"id\":\"500269571\",\"layerId\":\"84A1B730-883A-4C61-B02C-9A49C2F57E6E\"},{\"id\":\"75376803\",\"layerId\":\"84A1B730-883A-4C61-B02C-9A49C2F57E6E\"},{\"id\":\"75376803\",\"layerId\":\"09C787BB-3B7F-4139-B3C8-A0B0ED78BA6E\"},{\"id\":\"508465483\",\"layerId\":\"7B448300-56E7-4DFE-AB13-3391DAA5E680\"},{\"id\":\"1134008\",\"layerId\":\"44ACCDDA-A89C-4007-949F-D3D653BE7D9A\"},{\"id\":\"592499199\",\"layerId\":\"38837FD7-8EC2-4736-843E-4A733BC5D484\"},{\"id\":\"892703270\",\"layerId\":\"DE4DE580-B0EE-4FFD-82BA-ED84384BCAAB\"},{\"id\":\"518339385\",\"layerId\":\"EBD0DA5C-1AB2-41C9-A94D-0E6197C114E1\"},{\"id\":\"697542673\",\"layerId\":\"EBD0DA5C-1AB2-41C9-A94D-0E6197C114E1\"},{\"id\":\"697542673\",\"layerId\":\"E0040F9E-18D5-40C9-9556-88AB73CEA763\"},{\"id\":\"543198769\",\"layerId\":\"25E7F15F-8ABF-4BB0-98FD-5CC8DBF4CF07\"},{\"id\":\"126364029\",\"layerId\":\"90812DA2-1602-4A8B-B7BD-EEBBEE190E52\"},{\"id\":\"549105939\",\"layerId\":\"B9C8C3FD-0F17-4B6F-A78C-27D474C9228E\"},{\"id\":\"549105939\",\"layerId\":\"E60375B5-5B86-4578-92D2-5E925414592E\"},{\"id\":\"187990397\",\"layerId\":\"97278D7A-EE6E-4636-8A20-8FD3BBB539C9\"}]"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

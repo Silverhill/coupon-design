@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "D4B9A0E1-62FA-41F3-9B78-58C3448EEA94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 22,
+    "x": 227,
+    "y": 2337
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EE6B25C5-71C1-4D7A-A8C3-5F6EE96FDB46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DCBF52E-6407-49DB-9ED8-A530A5B7C4CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78B7A462-110F-4585-BED3-14120C1E509B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C49827B-5A77-4757-A9A7-D4C1A2B52F27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26661ED7-DBCB-4965-B100-BD2083D9090D"
+    }
+  ],
+  "name": "ios-people",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 14,
+            "enabled": 1,
+            "modelID": "constraint_874950c0-3e33-402f-8e83-f08b70ec936d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 22
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_df08d21e-d45e-425e-b11e-9f8c70c37700",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

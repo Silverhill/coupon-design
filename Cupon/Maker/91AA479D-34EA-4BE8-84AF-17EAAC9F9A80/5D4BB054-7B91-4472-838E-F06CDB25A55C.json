@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIiotMzY6QkNERUZKTlpbXF1eX2BhYmRlVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxEGuE1hbnkgcGVvcGxlIHVuZGVyc3RhbmQgdGhlIGNvbmNlcHQgb2YgcGFzc2l2ZSBzb2xhciBmb3IgaGVhdGluZyBhIGhvbWUuIEZld2VyIHJlYWxpemUgaXQgY2FuIGJlIHVzZWQgaW4gdG8gY29vayBmb29kIGFuZCBzdGVyaWxpemUgd2F0ZXIuCgpDb29raW5nIFdpdGggVGhlIFBvd2VyIG9mIHRoZSBTdW4KCkEgc29sYXIgb3ZlbiBpcyBwcmV0dHkgbXVjaCB3aGF0IGl0IHNvdW5kcyBsaWtlLiBJdCBpcyB1c2VkIHRvIGNvb2sgZm9vZCBhbmQgc3RlcmlsaXplIHdhdGVyLiBNb3N0IHBlb3BsZSBkbyBub3QgZXZlbiBrbm93IHRoZXkgZXhpc3QsIGJ1dCB0aGV5IGFyZSBhbiBlZmZlY3RpdmUgd2F5IHRvIGNvb2sgZnJvbSBib3RoIGFuIGVjb25vbWljIGFuZCBlZmZpY2llbmN5IHBvaW50IG9mIHZpZXcuIFRoZSBiYXNpYyBpZGVhIHdpdGggYSBzb2xhciBjb29raW5nIGlzIHRvIGNyZWF0ZSBhIGJveCBsaWtlIHN0cnVjdHVyZSB0aGF0IHRoZSBzdW4gaGVhdHMgdXAgZHJhbWF0aWNhbGx5LiBJZiB5b3UgaGF2ZSBzYXQgaW4gYSBjYXIgaW4gcnVzaCBob3VyIGR1cmluZyB0aGUgc3VtbWVyLCB5b3Uga25vdyB0aGUgc3VuIGNhbiBnZW5lcmF0ZSBhIGxvdCBvZiBoZWF0LiBJbnN0ZWFkIG9mIGNvb2tpbmcgeW91IGluIGEgY2FyLCBhIHNvbGFyIG92ZW4gZm9jdXNlcyBvbiBmb29kLiBTbywgaG93IGRvIHdlIGNvb2sgd2l0aCBpdD8gVGhlIGJveCBzdHJ1Y3R1cmUgaXMgY3JlYXRlZCB3aXRoIGRhcmsgcGFuZWxpbmcgYW5kIHRoZW4gY292ZXJlZCB3aXRoIGEgY2xlYXIgZ2xhc3Mgb3IgcGxhc3RpYyB0b3AgYWZ0ZXIgcG90cyBhbmQgZm9vZCBvciB3YXRlciBoYXMgYmVlbiBpbnNlcnRlZC4gVGhlIHN0cnVjdHVyZSBpcyBzZWFsZWQuIE11Y2ggbGlrZSBhIGNhciwgdGhlIHN1bmxpZ2h0IGJlYXRzIHRocm91Z2ggdGhlIGNsZWFyIHRvcCBhbmQgaGVhdHMgdGhlIGludGVyaW9yIG9mIHRoZSBib3guIEFzIHRoZSBoZWF0IHJpc2VzLCBpdCBjb29rcyB0aGUgaXRlbXMgaW5zaWRlLiBZZXMsIGl0IHByb2R1Y2VzIG1vcmUgdGhhbiBlbm91Z2ggaGVhdCB0byBkbyB0aGUgam9iLiBJdCByZWFsbHkgaXMgYXMgc2ltcGxlIGFzIHRoYXQuIFRoZXJlIGFyZSB0aHJlZSBnZW5lcmFsIHR5cGVzIG9mIHNvbGFyIG92ZW5zLiBBIHNvbGFyIGJveCB3b3JrcyBhcyBkZXNjcmliZWQgaW4gdGhlIHByZXZpb3VzIHBhcmFncmFwaC4gQSBwYW5lbCBvdmVuIHVzZXMgcmVmbGVjdGl2ZSBzdXJmYWNlcyB0byBmb2N1cyB0aGUgc3VuIG9uIGEgcG90IHRvIGNyZWF0ZSBoZWF0IGFuZCBjb29rIHRoZSBtYXRlcmlhbCBpbnNpZGUuIEEgcGFyYWJvbGljIHZlcnNpb24gaXMgZGVzaWduZWQgdG8gZm9jdXMgdGhlIHN1bmxpZ2h0IGludG8gdGhlIGJvdHRvbSBvZiBhIGNvbmNhdmUgYXJlYSB1cG9uIHdoaWNoIHNpdHMgcG90cy4gVGhlcmUgYXJlIHZhcmlhdGlvbnMgb2YgdGhlc2UgdGhyZWUgZm9ybXMsIGJ1dCBhbGwgc29sYXIgY29va2luZyBkZXNpZ25zIGFyZSBkZXJpdmVkIGZyb20gdGhlc2UgYmFzaWMgZm9ybXMuIFdoaWxlIGNvb2tpbmcgd2l0aCB0aGUgc3VuIGlzIGEgZnVuIGFuZCBlZmZpY2llbnQsIG1vc3QgcGVvcGxlIHdpbGwgbmV2ZXIgYXBwbHkgaXQgaW4gdGhlaXIgaG9tZSBiZWNhdXNlIG9mIG9idmlvdXMgZGVzaWduIGlzc3Vlcy4gQXQgYSBjYWJpbiBvciB3aGVuIGNhbXBpbmcsIGhvd2V2ZXIsIGl0IGlzIGEgcGVyZmVjdCBzb2x1dGlvbi7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAegB1fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7UIwokJSYnKChaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIALgAmACdISCissoIAK0i4vMDFaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojAyWE5TT2JqZWN00i4vNDVfEBBOU1BhcmFncmFwaFN0eWxlojQy0go3ODlfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKOz5Bojw9gA6AD6I/QIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AuAAAAAAAAXExhdG8tUmVndWxhctIuL0dIXxATTlNNdXRhYmxlRGljdGlvbmFyeaNHSTJcTlNEaWN0aW9uYXJ50i4vS0xfEBBOU0ZvbnREZXNjcmlwdG9yok0yXxAQTlNGb250RGVzY3JpcHRvctMREgpPVB2kUFFSU4AVgBaAF4AYpFVWV1iAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/t/f39/f3+Iz/wAAAAAAAAIz/unp6enp6eIz/t/f39/f3+0i4vSWOiSTIivrMzMtIuL2ZnXxASTlNBdHRyaWJ1dGVkU3RyaW5nomgyXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WtsVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKB0YHTQdVB2AHZQdnB2kHawdtB3IHdAd2B3gHegd8B48HsQfeB+UH7gf5CAYIEggUCBYIGAgaCB8IIAgiCCcIMgg7CEMIRghPCFQIZwhqCG8IjAiOCJAIlwiaCJwIngihCKMIpQinCL0I0wjcCOkI7gkECQgJFQkaCS0JMAlDCUoJTwlRCVMJVQlXCVwJXglgCWIJZAlmCWoJcAl1CXsJhAmNCZYJnwmkCacJrAmxCcYJyQneCfAJ8wn4AAAAAAAAAgEAAAAAAAAAbQAAAAAAAAAAAAAAAAAACfo="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "5D4BB054-7B91-4472-838E-F06CDB25A55C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67.99999999999989,
+    "width": 357,
+    "x": 578,
+    "y": 841.0000000000001
+  },
+  "glyphBounds": "{{0, 3}, {357, 609}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Many people understa Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "08A61D76-A14A-4B1A-A16A-EEE04D9C8AF1"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "cooking",
+          "type": "body"
+        },
+        "title": "Cooking"
+      }
+    }
+  }
+}

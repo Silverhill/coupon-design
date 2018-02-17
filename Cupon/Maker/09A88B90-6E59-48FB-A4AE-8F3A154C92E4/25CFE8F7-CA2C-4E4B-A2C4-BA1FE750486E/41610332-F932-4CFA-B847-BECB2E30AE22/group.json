@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "41610332-F932-4CFA-B847-BECB2E30AE22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 13,
+    "width": 18,
+    "x": 5.800000000000009,
+    "y": 8.700000000000022
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0039F834-1BAD-4EC7-9CBB-653C5524CD1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D338B7A4-8293-4575-A8B2-B04456ECE768"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9466F3D4-AB72-4F58-AAD2-82A286A4708E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B83E84B8-2E88-4773-9D1F-6952A5AC580D"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 13,
+            "enabled": 1,
+            "modelID": "constraint_1bfce876-06fc-47b0-b895-a89aa1b8e5bd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 18
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c6f21a69-8d6b-4dbe-9d25-862f395aff67",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

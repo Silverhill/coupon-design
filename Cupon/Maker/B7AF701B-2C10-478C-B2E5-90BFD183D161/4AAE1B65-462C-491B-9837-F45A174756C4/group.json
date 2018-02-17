@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "4AAE1B65-462C-491B-9837-F45A174756C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 39,
+    "width": 131,
+    "x": 233,
+    "y": 643
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E192BE28-F83D-4553-B5F9-1EE6A5DA0882"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3254B64-3FF7-4B5E-BE5F-6E80B9A3266F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA7ECC30-5863-4C47-A151-996E76C2ACCD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C408574A-B5C9-46E8-B51F-30F5B930A047"
+    }
+  ],
+  "name": "Apple Store Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

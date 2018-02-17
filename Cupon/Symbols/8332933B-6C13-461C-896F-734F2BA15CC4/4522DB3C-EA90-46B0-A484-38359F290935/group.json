@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "4522DB3C-EA90-46B0-A484-38359F290935",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 322,
+    "x": 1,
+    "y": 220
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "18DA877C-1BC1-4E6C-B768-39577574DF3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4F1F75D-2088-4D0D-9F81-7603F1CBEEAB"
+    },
+    {
+      "class": "text",
+      "id": "95886676-D0BA-4E7B-86B0-1A86A26DDDEC"
+    },
+    {
+      "class": "text",
+      "id": "FF58B08D-90AC-4A7E-97FC-0C6E6DC0A557"
+    }
+  ],
+  "name": "Campaña Copy 9",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
