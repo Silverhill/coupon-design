@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "51237949-F398-4517-BC9D-4C3BCE27EC12",
+  "do_objectID": "79EF87BA-75E1-440D-BAA1-879031727000",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 164,
-    "x": 1028,
+    "width": 78,
+    "x": 732,
     "y": 20
   },
   "hasClickThrough": false,
@@ -27,15 +27,15 @@
   "layers": [
     {
       "class": "group",
-      "id": "D867C7A0-811E-471C-871D-370BDB951681"
+      "id": "1A5FDBCC-F346-43FE-867B-E519D823A858"
     },
     {
       "class": "text",
-      "id": "FA2E1CCF-450C-4323-8C7E-34E6AD166102"
+      "id": "550EEDEC-E0DF-463B-9826-D190AB4A4B32"
     }
   ],
-  "name": "Group 2 Copy",
-  "nameIsFixed": false,
+  "name": "link copy 3",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -49,7 +49,12 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 10,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
   }
 }
